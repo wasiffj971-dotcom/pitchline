@@ -1,0 +1,17 @@
+{
+  "name": "pitchline-store",
+  "version": "1.0.0",
+  "description": "PITCHLINE - football and sportswear e-commerce demo with Google Analytics 4 ecommerce tracking",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-session": "^1.18.0"
+  }
+}
